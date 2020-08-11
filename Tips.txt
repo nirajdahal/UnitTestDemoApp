@@ -1,0 +1,4 @@
+- Unit testing is intented to test only one unit of work i.e a method
+- Unit test only test public method
+
+Prop Tip: Testing is an upfront expense for a long term ROI (Return on Investment) in saftey, confidencem andd stability
